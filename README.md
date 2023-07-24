@@ -6,4 +6,4 @@ This project is mainly for trainees to find leaked tokens, please do not open se
 
 ## Cheatsheet
 
-`./trufflehog git https://github.com/None87/husky.pt`
+`./trufflehog git https://github.com/Husky-Lab/husky.pt`
